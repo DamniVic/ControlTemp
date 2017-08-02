@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/recycle_btn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/layout_5dp"
+        android:minWidth="@dimen/layout_50dp"
+        android:minHeight="@dimen/layout_50dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:background="@drawable/recycle_btn_background"/>
+
+</LinearLayout>

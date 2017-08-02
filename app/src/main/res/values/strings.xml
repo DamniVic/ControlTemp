@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ControlTemp</string>
+    <string name="now">now</string>
+    <string name="washing_car">洗车：</string>
+    <string name="dressing">穿衣：</string>
+    <string name="flu">感冒：</string>
+    <string name="sports">运动：</string>
+    <string name="travel">旅游：</string>
+    <string name="uv">紫外线：</string>
+    <string name="day">白天：</string>
+    <string name="night">夜间：</string>
+    <string name="temperature">气温：</string>
+    <string name="wind_direction">风向：</string>
+    <string name="wind_degree">风度：</string>
+    <string name="wind_speed">风速：</string>
+    <string name="wind_scale">风力等级：</string>
+    <string name="html_image" formatted="false">&lt;p>&lt;img src=\"%s\" alt=\"%s\" width=\"%s\" height=\"%s\"/>%s&lt;/p></string>
+    <string name="gridlayoutmanager">GridLayoutManager</string>
+    <string-array name="function">
+        <item>打电话</item>
+        <item>通话页面</item>
+        <item>短信页面</item>
+        <item>导航</item>
+        <item>打开APP</item>
+        <item>打开网页</item>
+        <item>创建闹钟</item>
+        <item>本地音乐</item>
+        <item>单首本地</item>
+        <item>打开日历</item>
+        <item>网页搜索</item>
+        <item>搜索APP</item>
+        <item>在线音乐</item>
+        <item>查询天气</item>
+        <item>发送名片</item>
+        <item>发送短信</item>
+        <item>翻译</item>
+        <item>悬浮框</item>
+    </string-array>
+</resources>
